@@ -2,7 +2,9 @@ h1 {
     color: blue;
     text-align: center;
 }
-img {
-    color: aqua;
-    text-align: center;
+p {
+    color: brown; text-align: center;
+}
+ul {
+    color: green;
 }
